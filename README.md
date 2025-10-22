@@ -1,4 +1,4 @@
-# Repositorio de Tares :D
+# Repositorio de Tareas :D
 ## Bloque 2 | Semestre 1
 
 Este repositorio contiene una colección de ejercicios de programación en Python con el objetivo de consolidar el conocimiento de la programación estructurada y el manejo de datos.
